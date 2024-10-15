@@ -5,12 +5,9 @@ This project focuses on building an AI model to detect mask-wearing and categori
 ## **Table of Contents**
 - [Overview](#overview)  
 - [Features](#features)  
-- [Installation](#installation)  
-- [Usage](#usage)  
-- [Results](#results)  
+- [Installation](#installation)   
 - [Technologies Used](#technologies-used)  
-- [Contributing](#contributing)  
-- [License](#license)  
+
 
 ---
 
